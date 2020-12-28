@@ -1,5 +1,5 @@
 wiek = 28
 print(wiek)
 
-wiek = 29
+wiek =  32
 print(wiek)
