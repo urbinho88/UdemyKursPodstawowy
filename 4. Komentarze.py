@@ -2,8 +2,8 @@
 
 
 # "stworzenie zmiennej 'a' o wartości 5"
-a = 5
-b = 2
+a = 3
+b = 7
 
 suma = a + b
 
